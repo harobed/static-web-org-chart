@@ -1,0 +1,29 @@
+{
+  "members": [
+      {
+        "name": "Julie Dubois",
+        "email": "Julie61@gmail.com",
+        "picture": "julie_dubois.jpg"
+      },
+      {
+        "name": "Mathéo Roche",
+        "email": "matho_roche10@yahoo.fr",
+        "picture": "matheo_roche.jpg"
+      },
+      {
+        "name": "Léa Carre",
+        "email": "La.Carre@gmail.com",
+        "picture": "lea_carre.jpg"
+      },
+      {
+        "name": "Elisa Riviere",
+        "email": "Elisa_Riviere@hotmail.fr",
+        "picture": "elisa_riviere.jpg"
+      },
+      {
+        "name": "Benjamin Vidal",
+        "email": "Benjamin_Vidal@gmail.com",
+        "picture": "benjamin_vidal.jpg"
+      }
+  ]
+}

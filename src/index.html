@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Starter Template for Bootstrap</title>
+
+    <link href="/assets/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+        {% for member in globals.members %}
+        <div class="col-3">
+          <div class="member">
+            <img src="/assets/pictures/{{ member.picture}}" />
+            <h3>{{ member.name }}</h3>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </body>
+</html>
